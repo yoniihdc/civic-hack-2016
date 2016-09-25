@@ -33,3 +33,7 @@ Karla Gabriela Roblero
 Equipo KAN  -   https://github.com/marcosamo/civicHack
 
 {Cesar, Martin, German, Jesvan, Damaris}
+
+Equipo 8bits - https://gitlab.com/yoniihdc/civichack2016.git
+
+{Ana Palma, Efren Pech, Ricardo de la Cruz, Emmanuel Rodriguez, Jonathan Peraza}
